@@ -1,0 +1,42 @@
+2025-12-02 17:27:57,352 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:28:25,082 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:29:59,659 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:30:22,941 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:31:47,631 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:31:51,564 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:32:05,143 - logic.touchscreen_manager - INFO - Touchscreen disabled successfully
+2025-12-02 17:32:11,692 - logic.touchscreen_manager - INFO - Touchscreen enabled successfully
+2025-12-02 17:32:45,578 - logic.touchscreen_manager - INFO - Touchscreen disabled successfully
+2025-12-02 17:36:20,722 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:36:24,191 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:36:59,700 - logic.touchscreen_manager - INFO - Touchscreen enabled successfully
+2025-12-02 17:37:21,989 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:42:21,552 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:42:27,627 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:43:57,053 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:45:04,826 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:45:10,369 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:45:23,515 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:45:35,440 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:45:39,893 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:45:55,649 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:47:20,814 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:47:26,585 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:47:43,097 - logic.touchscreen_manager - INFO - Touchscreen disabled successfully
+2025-12-02 17:48:19,387 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:48:23,025 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:48:27,113 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:48:32,629 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:51:21,664 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:51:25,653 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:51:42,030 - logic.touchscreen_manager - INFO - Touchscreen enabled successfully
+2025-12-02 17:52:43,596 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 17:55:15,031 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 17:55:19,050 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 17:55:29,677 - logic.touchscreen_manager - INFO - Touchscreen disabled successfully
+2025-12-02 17:55:42,853 - __main__ - INFO - TouchToggle application exiting with code: 0
+2025-12-02 18:00:49,839 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 18:00:53,819 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 18:01:01,849 - __main__ - INFO - Starting TouchToggle application
+2025-12-02 18:01:05,464 - __main__ - INFO - TouchToggle application started successfully
+2025-12-02 18:01:24,284 - __main__ - INFO - TouchToggle application exiting with code: 0

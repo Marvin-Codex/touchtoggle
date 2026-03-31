@@ -1,0 +1,11 @@
+# TouchToggle Dependencies
+# Python dependencies for TouchToggle Desktop Application
+
+PyQt6>=6.4.0
+# PyQt6 provides the GUI framework for the application
+
+# For creating executable
+pyinstaller>=5.0.0
+
+# Optional dependencies for future enhancements
+# pillow>=9.0.0       # For advanced icon handling
